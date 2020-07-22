@@ -26,7 +26,6 @@ Hey 👋
 #### Engineering Blogs
   - [Open Sourcing Amundsen: A Data Discovery And Metadata Platform](https://eng.lyft.com/open-sourcing-amundsen-a-data-discovery-and-metadata-platform-2282bb436234) @ Lyft engineering blog 2019
   - [Securing Apache Airflow UI With DAG Level Access](https://eng.lyft.com/securing-apache-airflow-ui-with-dag-level-access-a7bc649a2821) @ Lyft engineering blog 2019
-  - [Amundsen -- Lyft's data discovery & metadata engine](https://eng.lyft.com/amundsen-lyfts-data-discovery-metadata-engine-62d27254fbb9) @ Lyft engineering blog 2019 (Contributing)
   - [Running Apache Airflow At Lyft](https://eng.lyft.com/running-apache-airflow-at-lyft-6e53bb8fccff) @ Lyft engineering blog 2018
   - [Common Issue Detection for CPU Profiling](https://engineering.linkedin.com/blog/2017/09/common-issue-detection-for-cpu-profiling) @ Linkedin engineering blog 2017
   - [ODP: An Infrastructure for On-Demand Service Profiling](https://engineering.linkedin.com/blog/2017/01/odp--an-infrastructure-for-on-demand-service-profiling) @ Linkedin engineering blog 2017
