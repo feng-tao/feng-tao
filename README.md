@@ -2,8 +2,7 @@ Hey 👋
 
 ### About Me 😄
 
-- Software engineer at [<img src="https://user-images.githubusercontent.com/4712430/87979774-31595800-ca98-11ea-9575-6a0cc7f46fcc.png" width="16px" /> **Lyft**](https://lyft.com) since 2018.
-- Work on data tools / data products
+- Software engineer on data tools / data products at [<img src="https://user-images.githubusercontent.com/4712430/87979774-31595800-ca98-11ea-9575-6a0cc7f46fcc.png" width="16px" /> **Lyft**](https://lyft.com) since 2018
 - Apache Airflow PMC member and committer
 - Maintainer on [<img src="https://raw.githubusercontent.com/lyft/amundsen/master/docs/img/logos/amundsen_mark_orange.svg?sanitize=true" width="20px" /> **Amundsen**](https://github.com/lyft/amundsen)
 
