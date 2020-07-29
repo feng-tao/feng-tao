@@ -28,3 +28,5 @@ Hey 👋
 #### Podcasts
   - [Interview with Software Engineering Daily on Data Discovery at Lyft](https://softwareengineeringdaily.com/2019/04/16/lyft-data-discovery-with-tao-feng-and-mark-grover/)
   - [Interview with Data Engineering Podcast on Amundsen](https://www.dataengineeringpodcast.com/amundsen-data-discovery-episode-92/)
+#### Patents
+  - [On-demand profiling based on event streaming architecture](https://patents.google.com/patent/US10019340)
