@@ -12,7 +12,7 @@ Hey 👋
 - <img src="https://user-images.githubusercontent.com/4712430/87982839-04f40a80-ca9d-11ea-8cd3-688d9a9dbfd4.png" height="16px" /> Slack: [@amundsen / Tao Feng](https://join.slack.com/t/amundsenworkspace/shared_invite/enQtNTk2ODQ1NDU1NDI0LTc3MzQyZmM0ZGFjNzg5MzY1MzJlZTg4YjQ4YTU0ZmMxYWU2MmVlMzhhY2MzMTc1MDg0MzRjNTA4MzRkMGE0Nzk)
 - 👔&nbsp;LinkedIn: [@tao-f-17195814](https://www.linkedin.com/in/tao-f-17195814/)
 
-### Talks & Writing 💬 📝
+### Talks & Writings 💬 📝
 #### Conference & Meetup Presentations
   - [Airflow Summit 2020 key note](https://airflowsummit.org/speakers/) ([slide](https://www.slideshare.net/taofung/airflow-at-lyft-airflow-summit2020))
   - [Airflow @ Lyft](https://www.meetup.com/SF-Big-Analytics/events/259771952/) @ SF Big Analytics Meetup April 2019
