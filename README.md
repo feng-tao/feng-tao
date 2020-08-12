@@ -7,7 +7,7 @@ Hey 👋
 - Maintainer on [<img src="https://raw.githubusercontent.com/lyft/amundsen/master/docs/img/logos/amundsen_mark_orange.svg?sanitize=true" width="20px" /> **Amundsen**](https://github.com/lyft/amundsen)
 
 ### Get in Touch 📫
-- <img src="https://raw.githubusercontent.com/lyft/amundsen/master/docs/img/logos/amundsen_mark_orange.svg?sanitize=true" width="20px" />&nbsp;Amundsen: [github.com/lyft/amundsen](https://github.com/lyft/amundsen)
+- <img src="https://raw.githubusercontent.com/lyft/amundsen/master/docs/img/logos/amundsen_mark_orange.svg?sanitize=true" width="20px" />&nbsp;Amundsen: [github.com/amundsen-io/amundsen](https://github.com/amundsen-io/amundsen)
 - 🐦&nbsp;Twitter: [@photoft45](https://twitter.com/photoft45)
 - <img src="https://user-images.githubusercontent.com/4712430/87982839-04f40a80-ca9d-11ea-8cd3-688d9a9dbfd4.png" height="16px" /> Slack: [@amundsen / Tao Feng](https://join.slack.com/t/amundsenworkspace/shared_invite/enQtNTk2ODQ1NDU1NDI0LTc3MzQyZmM0ZGFjNzg5MzY1MzJlZTg4YjQ4YTU0ZmMxYWU2MmVlMzhhY2MzMTc1MDg0MzRjNTA4MzRkMGE0Nzk)
 - 👔&nbsp;LinkedIn: [@tao-f-17195814](https://www.linkedin.com/in/tao-f-17195814/)
