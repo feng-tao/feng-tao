@@ -14,7 +14,7 @@ Hey 👋
 
 ### Talks & Writings 💬 📝
 #### Conference & Meetup Presentations
-  - [Airflow Summit 2020 key note](https://airflowsummit.org/speakers/) ([slide](https://www.slideshare.net/taofung/airflow-at-lyft-airflow-summit2020))
+  - [Airflow Summit 2020 invited key note](https://airflowsummit.org/speakers/) ([slide](https://www.slideshare.net/taofung/airflow-at-lyft-airflow-summit2020))
   - [Airflow @ Lyft](https://www.meetup.com/SF-Big-Analytics/events/259771952/) @ SF Big Analytics Meetup April 2019
   - [Amundsen: A Data Discovery Platform from Lyft](https://www.datacouncil.ai/talks/amundsen-a-data-discovery-platform-from-lyft?hsLang=en) @ Data Council SF April 2019
   - [Disrupting Data Discovery](https://www.slideshare.net/taofung/strata-sf-amundsen-presentation) @ Strata SF 2019
