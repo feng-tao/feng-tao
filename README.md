@@ -16,6 +16,8 @@ Hey 👋
 
 ### Talks & Writings 💬 📝
 #### Conference & Meetup Presentations
+  - [Solving Data Discovery Challenges at Lyft with Amundsen, an Open-source Metadata Platform](https://databricks.com/session_eu20/solving-data-discovery-challenges-at-lyft-with-amundsen-an-open-source-metadata-platform) @ Data+AI summit Europe 2020
+  - [Project Amundsen update](https://events.linuxfoundation.org/open-source-summit-europe/program/schedule/) @ LFAI Mini Summit and open source summit europe 2020
   - [Airflow Summit 2020 invited key note](https://airflowsummit.org/speakers/) ([slide](https://www.slideshare.net/taofung/airflow-at-lyft-airflow-summit2020))
   - [Airflow @ Lyft](https://www.meetup.com/SF-Big-Analytics/events/259771952/) @ SF Big Analytics Meetup April 2019
   - [Amundsen: A Data Discovery Platform from Lyft](https://www.datacouncil.ai/talks/amundsen-a-data-discovery-platform-from-lyft?hsLang=en) @ Data Council SF April 2019
