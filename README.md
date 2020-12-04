@@ -15,6 +15,7 @@ Hey 👋
 
 ### Talks & Writings 💬 📝
 #### Conference & Meetup Presentations
+  - [Data discovery Amundsen & Presto](https://www.meetup.com/prestodb/events/274895626/) @ Presto DB meetup Dec 2020
   - [Solving Data Discovery Challenges at Lyft with Amundsen, an Open-source Metadata Platform](https://databricks.com/session_eu20/solving-data-discovery-challenges-at-lyft-with-amundsen-an-open-source-metadata-platform) @ Data+AI summit Europe 2020
   - [Project Amundsen update](https://events.linuxfoundation.org/open-source-summit-europe/program/schedule/) @ LFAI Mini Summit and open source summit europe 2020
   - [Airflow Summit 2020 invited key note](https://airflowsummit.org/speakers/) ([slide](https://www.slideshare.net/taofung/airflow-at-lyft-airflow-summit2020))
