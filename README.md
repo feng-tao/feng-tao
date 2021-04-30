@@ -3,7 +3,7 @@ Hey 👋
 ### About Me 😄
 
 - Apache Airflow PMC member and committer
-- Maintainer on [<img src="https://raw.githubusercontent.com/lyft/amundsen/master/docs/img/logos/amundsen_mark_orange.svg?sanitize=true" width="20px" /> **Amundsen**](https://github.com/lyft/amundsen)
+- Co-creator and Maintainer of [<img src="https://raw.githubusercontent.com/lyft/amundsen/master/docs/img/logos/amundsen_mark_orange.svg?sanitize=true" width="20px" /> **Amundsen**](https://github.com/lyft/amundsen)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=feng-tao&show_icons=true&hide_title=true&hide_border=true)](https://github.com/feng-tao)
 
