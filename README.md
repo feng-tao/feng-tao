@@ -5,8 +5,6 @@ Hey 👋
 - Apache Airflow PMC member and committer
 - Co-creator and Maintainer of [<img src="https://raw.githubusercontent.com/lyft/amundsen/master/docs/img/logos/amundsen_mark_orange.svg?sanitize=true" width="20px" /> **Amundsen**](https://github.com/lyft/amundsen)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=feng-tao)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=feng-tao&show_icons=true&hide_title=true&hide_border=true)](https://github.com/feng-tao)
 
 ### Get in Touch 📫
 - <img src="https://raw.githubusercontent.com/lyft/amundsen/master/docs/img/logos/amundsen_mark_orange.svg?sanitize=true" width="20px" />&nbsp;Amundsen: [github.com/amundsen-io/amundsen](https://github.com/amundsen-io/amundsen)
