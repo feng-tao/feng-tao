@@ -14,7 +14,7 @@ Hey 👋
 
 ### Talks & Writings 💬 📝
 #### Conference & Meetup Presentations
-  - [Discover Data Lakehouse With E2E Lineage](https://databricks.com/dataaisummit/north-america-2022/agenda/?sessionid=2395) @ Data+AI summit NA 2022
+  - [Discover Data Lakehouse With E2E Lineage](https://www.databricks.com/dataaisummit/session/discover-data-lakehouse-end-end-lineage) @ Data+AI summit NA 2022
   - [Data Discovery at Databricks with Amundsen](https://databricks.com/session_na21/data-discovery-at-databricks-with-amundsen) @ Data+AI summit NA 2021
   - [Data discovery Amundsen & Presto](https://www.meetup.com/prestodb/events/274895626/) @ Presto DB meetup Dec 2020
   - [Solving Data Discovery Challenges at Lyft with Amundsen, an Open-source Metadata Platform](https://databricks.com/session_eu20/solving-data-discovery-challenges-at-lyft-with-amundsen-an-open-source-metadata-platform) @ Data+AI summit Europe 2020
