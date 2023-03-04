@@ -2,7 +2,7 @@ Hey 👋
 
 ### About Me 😄
 
-- Currently TLM at Databricks focusing on data portal and data lineage effort for Unity Catalog
+- Currently TLM at Databricks focusing on data portal, data lineage and other discovery effort for Unity Catalog
 - Apache Airflow PMC member and committer
 - Co-creator and Maintainer of [<img src="https://raw.githubusercontent.com/lyft/amundsen/master/docs/img/logos/amundsen_mark_orange.svg?sanitize=true" width="20px" /> **Amundsen**](https://github.com/lyft/amundsen)
 
