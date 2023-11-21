@@ -25,6 +25,7 @@ Hey 👋
   - [Amundsen: A Data Discovery Platform from Lyft](https://www.datacouncil.ai/talks/amundsen-a-data-discovery-platform-from-lyft?hsLang=en) @ Data Council SF April 2019
   - [Disrupting Data Discovery](https://www.slideshare.net/taofung/strata-sf-amundsen-presentation) @ Strata SF 2019
 #### Engineering Blogs
+  - [Creating a bespoke LLM for AI-generated documentation](https://www.databricks.com/blog/creating-bespoke-llm-ai-generated-documentation @ Databricks Engineering blog 2023
   - [Announcing Public Preview of AI Generated Documentation In Databricks Unity Catalog](https://www.databricks.com/blog/announcing-public-preview-ai-generated-documentation-databricks-unity-catalog) @ Databricks Platform blog 2023
   - [Announcing General Availability of Data lineage in Unity Catalog](https://www.databricks.com/blog/2022/12/12/announcing-general-availability-data-lineage-unity-catalog.html) @ Databricks Platform blog 2022
   - [Announcing Public Preview of Data Lineage in Unity Catalog](https://www.databricks.com/blog/2022/09/12/announcing-public-preview-data-lineage-unity-catalog.html) @ Databricks Platform blog 2022
