@@ -15,6 +15,7 @@ Hey 👋
 
 ### Talks & Writings 💬 📝
 #### Conference & Meetup Presentations
+  - [Democratize Data Discovery And Data Insight With Databricks Platform](https://www.databricks.com/dataaisummit/session/democratize-data-discovery-and-data-insight-databricks) @ Data+AI summit 2024
   - [Discover Data Lakehouse With E2E Lineage](https://www.databricks.com/dataaisummit/session/discover-data-lakehouse-end-end-lineage) @ Data+AI summit NA 2022
   - [Data Discovery at Databricks with Amundsen](https://databricks.com/session_na21/data-discovery-at-databricks-with-amundsen) @ Data+AI summit NA 2021
   - [Data discovery Amundsen & Presto](https://www.meetup.com/prestodb/events/274895626/) @ Presto DB meetup Dec 2020
