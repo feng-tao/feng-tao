@@ -49,4 +49,4 @@ Hey 👋
   - [Interview with Data Engineering Podcast on Amundsen](https://www.dataengineeringpodcast.com/amundsen-data-discovery-episode-92/)
 #### Patents
   - [On-demand profiling based on event streaming architecture](https://patents.google.com/patent/US10019340) (granted)
-  - [pending patent]
+  - [Data lineage tracking](https://patents.google.com/patent/US12242441B1/en?oq=12242441) (granted)
