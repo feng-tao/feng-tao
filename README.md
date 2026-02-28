@@ -4,7 +4,7 @@ Hey 👋
 
 - Currently Senior EM at Databricks focusing on data portal, data lineage and other discovery efforts for Unity Catalog
 - Apache Airflow PMC member and committer
-- Co-creator and Maintainer of [<img src="https://raw.githubusercontent.com/lyft/amundsen/master/docs/img/logos/amundsen_mark_orange.svg?sanitize=true" width="20px" /> **Amundsen**](https://github.com/lyft/amundsen)
+- Co-creator and Maintainer of [<img src="https://raw.githubusercontent.com/amundsen-io/amundsen/master/docs/img/logos/amundsen_mark_orange.svg?sanitize=true" width="20px" /> **Amundsen**](https://github.com/amundsen-io/amundsen)
 
 
 ### Get in Touch 📫
